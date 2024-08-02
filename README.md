@@ -1,9 +1,19 @@
-<h3 align="center">A passionate data analyst from London</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/tudor-tilinschi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tudor-tilinschi" height="30" width="40" /></a>
-</p>
+## 🚀 About Me
+# Hi, I'm Tudor! 
+### I'm an aspiring Data Analyst.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+Versatile professional with experience in inventory management, goods receiving, and customer service. Skilled in maintaining organized work environments, handling diverse tasks, and working effectively in fast-paced settings.
+
+Strong attention to detail and commitment to safety and efficiency, with the ability to adapt quickly to new systems and procedures.
+
+With a collaborative mindset and a dedication to continuous improvement, I am eager to apply my multifaceted skill set to new challenges and contribute positively to team success.
+
+
+## 🛠 Skills
+Excel, Tableau, Power BI, MySQL,HTML, CSS
+
+
+## Projects
+These are some of the projects I have worked on during the bootcamp and in my spare time.
+
