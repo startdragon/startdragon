@@ -18,4 +18,4 @@ Excel, Tableau, Power BI, MySQL,HTML, CSS
 These are some of the projects I have worked on during the bootcamp and in my spare time.
 
 ### HR Analysis using excel and Power BI <a href= "https://github.com/startdragon/PowerBI" title="Power BI project">Power BI</a>
-
+### Call center dashboard using Tableau <a href ="https://github.com/startdragon/Tableau/tree/main"><Tableau dashboard> </a>
